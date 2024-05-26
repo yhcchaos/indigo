@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 # Copyright 2018 Francis Y. Yan, Jestin Ma
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
